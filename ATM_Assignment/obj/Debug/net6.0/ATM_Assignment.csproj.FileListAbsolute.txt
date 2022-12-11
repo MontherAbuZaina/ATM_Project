@@ -1,0 +1,15 @@
+C:\Users\month\Desktop\cSharp\ATM_Assignment\bin\Debug\net6.0\ATM_Assignment.exe
+C:\Users\month\Desktop\cSharp\ATM_Assignment\bin\Debug\net6.0\ATM_Assignment.deps.json
+C:\Users\month\Desktop\cSharp\ATM_Assignment\bin\Debug\net6.0\ATM_Assignment.runtimeconfig.json
+C:\Users\month\Desktop\cSharp\ATM_Assignment\bin\Debug\net6.0\ATM_Assignment.dll
+C:\Users\month\Desktop\cSharp\ATM_Assignment\bin\Debug\net6.0\ATM_Assignment.pdb
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.csproj.AssemblyReference.cache
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.AssemblyInfoInputs.cache
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.AssemblyInfo.cs
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.dll
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\refint\ATM_Assignment.dll
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.pdb
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ATM_Assignment.genruntimeconfig.cache
+C:\Users\month\Desktop\cSharp\ATM_Assignment\obj\Debug\net6.0\ref\ATM_Assignment.dll
